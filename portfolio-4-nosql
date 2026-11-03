@@ -1,0 +1,29 @@
+# Portfolio 4: NoSQL and Advanced Data Models
+
+## Project Title
+Laykes Online Store – NoSQL Database Implementation
+
+## Introduction
+This portfolio demonstrates the use of MongoDB, a NoSQL document-oriented database, for managing customer orders in Laykes Online Store.
+
+## Database Used
+MongoDB Community Server and MongoDB Compass.
+
+## Database Name
+laykes_online_store_nosql
+
+## Collection
+orders
+
+## Objectives
+- Understand NoSQL database concepts.
+- Create a document-based data model.
+- Insert and retrieve customer order documents.
+- Demonstrate how MongoDB stores related information in documents.
+- Compare relational databases with NoSQL databases.
+
+## Implementation
+The database contains customer order documents with customer details, products, payment status, delivery status and order amounts.
+
+## Conclusion
+MongoDB provides a flexible way to store related order information in a document. This approach is useful for e-commerce applications such as Laykes Online Store.
