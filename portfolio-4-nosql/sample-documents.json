@@ -1,0 +1,43 @@
+
+[
+  {
+    "order_id": 1,
+    "customer": {
+      "customer_id": 1,
+      "full_name": "John Ade",
+      "email": "john@gmail.com"
+    },
+    "products": [
+      {
+        "product_id": 1,
+        "product_name": "Arsenal Jersey",
+        "quantity": 2,
+        "unit_price": 18000
+      }
+    ],
+    "total_amount": 36000,
+    "payment_status": "Paid",
+    "delivery_status": "Dispatched",
+    "delivery_location": "Lagos, Nigeria"
+  },
+  {
+    "order_id": 2,
+    "customer": {
+      "customer_id": 2,
+      "full_name": "Mary Bello",
+      "email": "mary@gmail.com"
+    },
+    "products": [
+      {
+        "product_id": 2,
+        "product_name": "Barcelona Jersey",
+        "quantity": 1,
+        "unit_price": 13000
+      }
+    ],
+    "total_amount": 13000,
+    "payment_status": "Pending",
+    "delivery_status": "Processing",
+    "delivery_location": "Ikeja, Lagos"
+  }
+]
